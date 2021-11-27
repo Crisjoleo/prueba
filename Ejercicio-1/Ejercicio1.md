@@ -1,10 +1,10 @@
-mlFaltantes: Cantidad de ml faltantes para completar el pedido del cliente
+mlFaltantes: Cantidad de ml faltantes para completar el pedido del cliente---
 
-i : indice para indicar que botella estamos utilizando = 0
+i : indice para indicar que botella estamos utilizando = 0---
 
-Botellas: arreglo de JSONS conteniendo los ml de cada botella con su cantidad en inventario ejemplo Botellas = [{cantidad:25, capacidadMl:750 , {cantidadBotella:30 , capacidadMl:350},{cantidadBotella:30 , capacidadMl:250}}]
+Botellas: arreglo de JSONS conteniendo los ml de cada botella con su cantidad en inventario ejemplo Botellas = [{cantidad:25, capacidadMl:750 , {cantidadBotella:30 , capacidadMl:350},{cantidadBotella:30 , capacidadMl:250}}]---
 
-botellasGastadas = [] arreglo donde almacenaremos los indices de las botellas utilizadas
+botellasGastadas = [] arreglo donde almacenaremos los indices de las botellas utilizadas---
 
 - Primero se ordenarian las botellas con su capacidad de ML en orden de mayor a menor luego ,
 
